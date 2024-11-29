@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linju Sam</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Front-End & Python Developer</h3>
 
-- 🌱 I’m currently learning **Python,Django**
+- 🌱 Backend optimization and cloud deployments.
 
 - 📫 How to reach me **linjusam@gmail.com**
 

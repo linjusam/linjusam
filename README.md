@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linju Sam</h1>
-<h3 align="center">Front-End & Python Developer</h3>
+<h3 align="center">FrontEnd(React) & Python Developer</h3>
 
 - 🌱 Backend optimization and cloud deployments.
 
